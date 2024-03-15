@@ -1,0 +1,48 @@
+body{
+    background: url("background1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: antiquewhite;
+    text-align: center;
+    margin: auto;
+}
+.name{
+    display: flex;
+    justify-content: space-evenly;
+    background: rgba(0, 0, 0, 0.2);
+    margin: auto;
+    margin-top: 30px;
+    height:90px;
+    margin-bottom: 30px;
+
+}
+h3{
+    color: white;
+    font-size: x-large;
+}
+th{
+    text-align: center;
+    font-size: 30;
+}
+td{
+    height: 150px;
+    width: 150px;
+    border: 3px solid whitesmoke;
+    color: black;
+    border-radius: 0% 50% 0% 50%;
+}
+.t{
+    display: flex;
+    justify-content: space-evenly;
+    background: rgba(0, 0, 0, 0.5);
+}
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 0% 50% 0% 50%;
+}
+
+
+
